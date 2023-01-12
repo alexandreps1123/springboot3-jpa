@@ -33,3 +33,13 @@ WARNING: Unmatched cancel notification for request id 333
 2023.01.12 14:16:34 INFO  time: code lens generation in 1.84s[0m
 2023.01.12 14:16:40 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/resources/UserResource.java[0m
 2023.01.12 14:16:48 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/resources/UserResource.java[0m
+2023.01.12 14:27:13 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/entities/User.java[0m
+2023.01.12 14:27:46 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/entities/User.java[0m
+2023.01.12 14:28:08 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/entities/User.java[0m
+2023.01.12 14:28:16 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/entities/User.java[0m
+2023.01.12 14:28:23 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/Springboot3JpaApplication.java[0m
+2023.01.12 14:30:19 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/entities/User.java[0m
+2023.01.12 14:30:23 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/entities/User.java[0m
+2023.01.12 14:30:37 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/entities/User.java[0m
+2023.01.12 14:30:45 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/entities/User.java[0m
+2023.01.12 14:30:49 WARN  no build target for: /home/alexandre/Documents/estudos/java/springboot3-jpa/src/main/java/com/parkus/springboot3jpa/entities/User.java[0m

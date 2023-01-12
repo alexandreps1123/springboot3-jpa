@@ -2,10 +2,17 @@ package com.parkus.springboot3jpa.entities;
 
 import java.io.Serializable;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+import jakarta.persistence.Id;
+
+@Entity
+@Table(name = "tb_user")
 public class User implements Serializable {
     
     private static final long serialVersionUID = 1L;
-    
+
+    @Id
     private Long id;
     private String name;
     private String email;
