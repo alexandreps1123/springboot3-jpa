@@ -3,6 +3,8 @@ package com.parkus.springboot3jpa.entities;
 import java.io.Serializable;
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
 import jakarta.persistence.Table;
 import jakarta.persistence.Id;
 
@@ -13,6 +15,7 @@ public class User implements Serializable {
     private static final long serialVersionUID = 1L;
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String name;
     private String email;
@@ -93,7 +96,5 @@ public class User implements Serializable {
             return false;
         return true;
     }
-
-    
 
 }
